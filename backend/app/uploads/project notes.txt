@@ -1,0 +1,4 @@
+| Concept                      | Meaning                        | Simple Example                   |
+| ---------------------------- | ------------------------------ | -------------------------------- |
+| **Feature Engineering**      | Create **new/better** features | Make “Day”, “Month” from “Date”  |
+| **Dimensionality Reduction** | **Reduce** number of features  | From 100 features → keep only 20 |
